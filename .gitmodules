@@ -3,22 +3,22 @@
 	url = https://github.com/uetiari/todolist-proj.git
 [submodule "web-responsivo"]
 	path = web-responsivo
-	url = ../web-responsivo.git
+	url = https://github.com/uetiari/web-responsivo.git
 [submodule "primeiro-repositorio"]
 	path = primeiro-repositorio
-	url = ../primeiro-repositorio.git
+	url = https://github.com/uetiari/primeiro-repositorio.git
 [submodule "formulario"]
 	path = formulario
-	url = ../formulario.git
+	url = https://github.com/uetiari/formulario.git
 [submodule "exerciciotabela"]
 	path = exerciciotabela
-	url = ../exerciciotabela.git
+	url = https://github.com/uetiari/exerciciotabela.git
 [submodule "website-semantico"]
 	path = website-semantico
-	url = ../website-semantico.git
+	url = https://github.com/uetiari/website-semantico.git
 [submodule "website_design_thinking"]
 	path = website_design_thinking
-	url = ../website_design_thinking.git
+	url = https://github.com/uetiari/website_design_thinking.git
 [submodule "profile-sample"]
 	path = profile-sample
-	url = ../profile-sample.git
+	url = https://github.com/uetiari/profile-sample.git

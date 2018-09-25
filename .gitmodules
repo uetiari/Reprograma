@@ -1,0 +1,24 @@
+[submodule "todolist-proj"]
+	path = todolist-proj
+	url = ../todolist-proj.git
+[submodule "web-responsivo"]
+	path = web-responsivo
+	url = ../web-responsivo.git
+[submodule "primeiro-repositorio"]
+	path = primeiro-repositorio
+	url = ../primeiro-repositorio.git
+[submodule "formulario"]
+	path = formulario
+	url = ../formulario.git
+[submodule "exerciciotabela"]
+	path = exerciciotabela
+	url = ../exerciciotabela.git
+[submodule "website-semantico"]
+	path = website-semantico
+	url = ../website-semantico.git
+[submodule "website_design_thinking"]
+	path = website_design_thinking
+	url = ../website_design_thinking.git
+[submodule "profile-sample"]
+	path = profile-sample
+	url = ../profile-sample.git

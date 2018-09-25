@@ -1,6 +1,6 @@
 [submodule "todolist-proj"]
 	path = todolist-proj
-	url = ../todolist-proj.git
+	url = https://github.com/uetiari/todolist-proj.git
 [submodule "web-responsivo"]
 	path = web-responsivo
 	url = ../web-responsivo.git

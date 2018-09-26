@@ -22,3 +22,6 @@
 [submodule "profile-sample"]
 	path = profile-sample
 	url = https://github.com/uetiari/profile-sample.git
+[submodule "projeto-1_m-de-maravilhosa"]
+	path = projeto-1_m-de-maravilhosa
+	url = https://github.com/uetiari/projeto-1_m-de-maravilhosa.git
